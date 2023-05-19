@@ -1,0 +1,8 @@
+1.在web工程中导入BeAlert文件夹
+
+2.引入Bealert.css样式表
+
+3.引入jquery文件
+
+4.引入Bealert.js文件
+
